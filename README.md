@@ -1,3 +1,17 @@
+<a href="https://linkedin.com/in/vaishnavi-rao-b" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+</a>
+<h1 align="center">Hi 👋, I'm Vaishnavi Rao.B</h1>
+<img align="right" alt="Coding" width="350"  src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
+<br /><br />
+Welcome to the my bubble of Web Development! :)
+<br /><br />
+<a href="https://linkedin.com/in/vaishnavi-rao-b" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+
+
 # 💫 About Me:
 💻 I'm currently working on Flutter Prega App <br>📝 I'm currently  learning Flutter <br>🤝 I'm open to collaboration on Web Development <br>🗣️ Ask me about Web Development <br>✉️ You can reach me at vaishnaviraob61@gmail.com <br>💡 Fun fact : I am a dancer<br>
 
